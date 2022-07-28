@@ -1,0 +1,2 @@
+model_checkpoint_path: "/Users/lucas/Desktop/PEDRA_2D_lstm/map_2D/results/weights/drone_2D1"
+all_model_checkpoint_paths: "/Users/lucas/Desktop/PEDRA_2D_lstm/map_2D/results/weights/drone_2D1"
